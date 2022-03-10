@@ -11,5 +11,3 @@ object Es6 extends App :
       case _ => _fib(n - 1, b, a + b)
 
     _fib(n, 0, 1)
-
-  println((fib(0), fib(1), fib(2), fib(3), fib(4)))
