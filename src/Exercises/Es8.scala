@@ -2,7 +2,6 @@ package Exercises
 
 object Es8 extends App :
 
-  // EXERCISE 8
   enum Option[A]:
     case Some(a: A)
     case None()

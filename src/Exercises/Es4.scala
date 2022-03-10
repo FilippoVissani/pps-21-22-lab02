@@ -2,7 +2,6 @@ package Exercises
 
 object Es4 extends App :
 
-  // EXERCISE 4
   val p1: Int => Int => Int => Boolean = x => y => z =>
     x <= y && y <= z
 

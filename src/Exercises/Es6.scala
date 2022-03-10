@@ -2,7 +2,6 @@ package Exercises
 
 object Es6 extends App :
 
-  // EXERCISE 6
   def fib(n: Int): Int =
     @annotation.tailrec
     def _fib(n: Int, a: Int, b: Int): Int = n match

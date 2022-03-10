@@ -2,7 +2,6 @@ package Exercises
 
 object Es7 extends App :
 
-  // EXERCISE 7
   enum Shape:
     case Rectangle(length: Double, height: Double)
     case Circle(radius: Double)
