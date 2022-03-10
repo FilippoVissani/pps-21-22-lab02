@@ -1,8 +1,6 @@
 package Exercises
 
-import Exercises.Es1.{parityLambda, parityMethod}
-import Exercises.Es2.{negLambda, negMethod}
-import Exercises.Es3.genericNeg
+import Exercises.Es3.*
 import Exercises.Es4.{p1, p2, p3, p4}
 import Exercises.Es5.{compose, composeGeneric}
 import Exercises.Es6.fib
